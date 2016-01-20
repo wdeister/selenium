@@ -1,0 +1,14 @@
+logfile.log
+.DS_Store
+target
+.idea/scopes
+.name
+compiler.xml
+encodings.xml
+misc.xml
+modules.xml
+uiDesigner.xml
+vcs.xml
+workspace.xml
+.idea/libraries
+.idea/copyright
