@@ -28,7 +28,7 @@ public class Login {
 	public void Login(){
 
 		driver.get("http://master.plentymarkets.com/plenty/ui/admin.html");
-		driver.findElement(By.)
+
 		driver.findElement(By.id("login_username")).click();
 		driver.findElement(By.id("login_username")).sendKeys("anonymous");
 
